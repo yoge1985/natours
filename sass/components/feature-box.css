@@ -1,0 +1,16 @@
+.feature-box {
+  background-color: rgba(255, 255, 255, 0.7);
+  font-size: 1.5rem;
+  padding: 2.5rem;
+  text-align: center;
+  margin-right: 2.4rem;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+          box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+}
+
+.feature-box_icon {
+  font-size: 6rem;
+  margin-bottom: .5rem;
+}
+/*# sourceMappingURL=feature-box.css.map */
